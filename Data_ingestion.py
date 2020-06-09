@@ -35,10 +35,10 @@ https://www.makaan.com/delhi/north-west-delhi-flats-for-rent-11475?page=1
 https://www.makaan.com/delhi/delhi-west-flats-for-rent-10559?page=1
 """
 
-#listings = listings_to_df('https://www.makaan.com/delhi/delhi-west-flats-for-rent-10559?page=1', num_pages=200)
-#data_dict = listings.to_dict(orient='records')
+listings = listings_to_df('https://www.makaan.com/delhi/delhi-west-flats-for-rent-10559?page=1', num_pages=200)
+data_dict = listings.to_dict(orient='records')
 
-#rent_prices.insert_many(data_dict)
+rent_prices.insert_many(data_dict)
 
 # Transferring Data from mongoDB collection to PD DF is straight-forward, just return all records using collection and
 # the cursor that is returned needs to converted to a list.
