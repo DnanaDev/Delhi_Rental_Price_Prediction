@@ -25,7 +25,8 @@ def predict_rent(size, property_type, suburb_name, locality_name, coordinates):
     :param size: Integer, size of house in square feet.
     :param property_type: str, type of property.
     :param locality_name: str, name of locality.
-    :param coordinates: list of string of latitude and longitude, co-ordinates of the house for which rent is to be predicted.
+    :param coordinates: str, of comma separated latitude and longitude, co-ordinates of the house for which
+    rent is to be predicted.
     :return: The predicted price of the listing.
     """
     try:

@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b3645ff-6809-4f04-9c45-b4cc4c1dd39f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rent_regression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rent_regression.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/June_7th_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/June_8_data_metro_all_stations.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Rent_data_makaan_metro_all_stations.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_ingestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/predict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metro.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +205,7 @@
       <updated>1591438130323</updated>
       <workItem from="1591438132169" duration="30435000" />
       <workItem from="1592138464590" duration="2715000" />
-      <workItem from="1592227569822" duration="16740000" />
+      <workItem from="1592227569822" duration="18677000" />
     </task>
     <servers />
   </component>
