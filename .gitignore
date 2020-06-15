@@ -3,3 +3,17 @@
 
 # Ignore Resources Folder
 /Resources
+
+# Ignore Data, Not Needed for prediction
+
+/Data
+
+# Ignore Scraper 
+
+/Scraper
+
+# Ignore modeling and Wrangling notebooks
+
+Data_ingestion.py
+Data_Wrangling.ipynb
+Rental_Price_Analysis_and_Modeling.ipynb
