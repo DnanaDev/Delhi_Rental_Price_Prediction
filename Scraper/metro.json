@@ -1,0 +1,2292 @@
+[
+    {
+        "name": "Adarsh Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Adarsh_Nagar_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.718104,
+            "longitude": 77.169385
+        }
+    },
+    {
+        "name": "AIIMS",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/AIIMS_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.56667,
+            "longitude": 77.208083
+        }
+    },
+    {
+        "name": "Akshardham",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Akshardham_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.618216,
+            "longitude": 77.279248
+        }
+    },
+    {
+        "name": "Anand Vihar ISBT",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Anand_Vihar_(Delhi_Metro)",
+            "line": "Blue Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.647328,
+            "longitude": 77.316091
+        }
+    },
+    {
+        "name": "Arjan Garh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Arjan_Garh_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.480796,
+            "longitude": 77.125772
+        }
+    },
+    {
+        "name": "Arthala",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Arthala_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.6729,
+            "longitude": 77.3917
+        }
+    },
+    {
+        "name": "Ashok Park Main",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Ashok_Park_Main_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.671603,
+            "longitude": 77.155011
+        }
+    },
+    {
+        "name": "Ashram",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Ashram_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.5723975,
+            "longitude": 77.2584365
+        }
+    },
+    {
+        "name": "Azadpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Azadpur_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.707273,
+            "longitude": 77.179974
+        }
+    },
+    {
+        "name": "Badarpur Border",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Badarpur_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.4936,
+            "longitude": 77.3031
+        }
+    },
+    {
+        "name": "Badkhal Mor",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Badkhal_Mor_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.42278,
+            "longitude": 77.31028
+        }
+    },
+    {
+        "name": "Bahadurgarh City",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Bahadurgarh_City_metro_station",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.690777,
+            "longitude": 76.935277
+        }
+    },
+    {
+        "name": "Barakhambha Road",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Barakhamba_Road_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Underground",
+            "latitude": 28.630689,
+            "longitude": 77.223582
+        }
+    },
+    {
+        "name": "Bata Chowk",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Bata_Chowk_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.386052028,
+            "longitude": 77.313441
+        }
+    },
+    {
+        "name": "Bhikaji Cama Place",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Bhikaji_Cama_Place_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.5702753,
+            "longitude": 77.186772
+        }
+    },
+    {
+        "name": "Botanical Garden",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Botanical_Garden_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.564208,
+            "longitude": 77.334781
+        }
+    },
+    {
+        "name": "Brigadier Hoshiyar Singh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Brigadier_Hoshiyar_Singh_metro_station",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.697357,
+            "longitude": 76.919388
+        }
+    },
+    {
+        "name": "Central Secretariat",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Central_Secretariat_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.615042,
+            "longitude": 77.211785
+        }
+    },
+    {
+        "name": "Chandni Chowk",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Chandni_Chowk_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.657838,
+            "longitude": 77.230169
+        }
+    },
+    {
+        "name": "Chawri Bazar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Chawri_Bazar_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.649564,
+            "longitude": 77.226226
+        }
+    },
+    {
+        "name": "Chhatarpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Chhatarpur_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.506552,
+            "longitude": 77.174926
+        }
+    },
+    {
+        "name": "Chirag Delhi",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Chirag_Delhi_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.541183,
+            "longitude": 77.231221
+        }
+    },
+    {
+        "name": "Civil Lines",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Civil_Lines_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.676921,
+            "longitude": 77.224998
+        }
+    },
+    {
+        "name": "Dabri Mor-Janakpuri South",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dabri_Mor_Metro_Station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.6156417,
+            "longitude": 77.0846446
+        }
+    },
+    {
+        "name": "Dashrath Puri",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dashrath_Puri_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.601559,
+            "longitude": 77.0820032
+        }
+    },
+    {
+        "name": "Delhi Aerocity",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Delhi_Aerocity_(Delhi_Metro)",
+            "line": "Orange Line",
+            "Layout": "Underground",
+            "latitude": 28.5491,
+            "longitude": 77.1208
+        }
+    },
+    {
+        "name": "Delhi Cantonment",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Delhi_Cantonment_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6092434,
+            "longitude": 77.1399134
+        }
+    },
+    {
+        "name": "Delhi Gate",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Delhi_Gate_metro_station",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.639731,
+            "longitude": 77.240139
+        }
+    },
+    {
+        "name": "Dhaula Kuan",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dhaula_Kuan_metro_station",
+            "line": "Orange Line",
+            "Layout": "Elevated",
+            "latitude": 28.591853,
+            "longitude": 77.16169
+        }
+    },
+    {
+        "name": "Dilshad Garden",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dilshad_Garden_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.675556,
+            "longitude": 77.320278
+        }
+    },
+    {
+        "name": "Durgabai Deshmukh South Campus",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Durgabai_Deshmukh_South_Campus_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.589441,
+            "longitude": 77.169475
+        }
+    },
+    {
+        "name": "Dwarka",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.614966,
+            "longitude": 77.022808
+        }
+    },
+    {
+        "name": "Dwarka Mor",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Mor_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.619299,
+            "longitude": 77.03344
+        }
+    },
+    {
+        "name": "Dwarka Sector 8",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_8_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.565622,
+            "longitude": 77.067015
+        }
+    },
+    {
+        "name": "Dwarka Sector 9",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_9_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.574311,
+            "longitude": 77.065245
+        }
+    },
+    {
+        "name": "Dwarka Sector 10",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_10_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.581413,
+            "longitude": 77.057
+        }
+    },
+    {
+        "name": "Dwarka Sector 11",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_11_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.5865,
+            "longitude": 77.049426
+        }
+    },
+    {
+        "name": "Dwarka Sector 12",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_12_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.592303,
+            "longitude": 77.040682
+        }
+    },
+    {
+        "name": "Dwarka Sector 13",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_13_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.597861,
+            "longitude": 77.032485
+        }
+    },
+    {
+        "name": "Dwarka Sector 14",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_14_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.60226,
+            "longitude": 77.025951
+        }
+    },
+    {
+        "name": "Dwarka Sector 21",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Dwarka_Sector_21_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Underground",
+            "latitude": 28.552125,
+            "longitude": 77.058016
+        }
+    },
+    {
+        "name": "East Azad Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/East_Azad_Nagar_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6646649,
+            "longitude": 77.2849077
+        }
+    },
+    {
+        "name": "East Vinod Nagar \u2013 Mayur Vihar-II",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/East_Vinod_Nagar_-_Mayur_Vihar-II_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.620057,
+            "longitude": 77.30527
+        }
+    },
+    {
+        "name": "Escorts Mujesar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Escorts_Mujesar_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.370081,
+            "longitude": 77.314954
+        }
+    },
+    {
+        "name": "ESI Hospital",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/ESI_Hospital_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6579865,
+            "longitude": 77.1263114
+        }
+    },
+    {
+        "name": "Ghevra",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Ghevra_Metro_Station",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.685245,
+            "longitude": 76.996167
+        }
+    },
+    {
+        "name": "Ghitorni",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Ghitorni_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.493785,
+            "longitude": 77.14915
+        }
+    },
+    {
+        "name": "Gokulpuri",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Gokulpuri_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.7024268,
+            "longitude": 77.2859859
+        }
+    },
+    {
+        "name": "Golf Course",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Golf_Course_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.56694,
+            "longitude": 77.345467
+        }
+    },
+    {
+        "name": "Govind Puri",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Govind_Puri_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.544606,
+            "longitude": 77.264287
+        }
+    },
+    {
+        "name": "Greater Kailash",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Greater_Kailash_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5416669,
+            "longitude": 77.2376805
+        }
+    },
+    {
+        "name": "Green Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Green_Park_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.559533,
+            "longitude": 77.2063862
+        }
+    },
+    {
+        "name": "GTB Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/GTB_Nagar_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.698206,
+            "longitude": 77.207011
+        }
+    },
+    {
+        "name": "Guru Dronacharya",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Guru_Dronacharya_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.482093,
+            "longitude": 77.102147
+        }
+    },
+    {
+        "name": "Haiderpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Haiderpur_metro_station",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.7299222,
+            "longitude": 77.1469417
+        }
+    },
+    {
+        "name": "Harkesh Nagar Okhla",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Harkesh_Nagar_Okhla_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.5428944,
+            "longitude": 77.2747389
+        }
+    },
+    {
+        "name": "Hauz Khas",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Hauz_Khas_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.5433278,
+            "longitude": 77.20585
+        }
+    },
+    {
+        "name": "Hazrat Nizamuddin",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Hazrat_Nizamuddin_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.5893087,
+            "longitude": 77.256274
+        }
+    },
+    {
+        "name": "Hindon",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Hindon_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.673594,
+            "longitude": 77.406456
+        }
+    },
+    {
+        "name": "HUDA City Centre",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/HUDA_City_Centre_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.459278,
+            "longitude": 77.072418
+        }
+    },
+    {
+        "name": "IFFCO Chowk",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/IFFCO_Chowk_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.472113,
+            "longitude": 77.072405
+        }
+    },
+    {
+        "name": "IIT Delhi",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/IIT_Delhi_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5470166,
+            "longitude": 77.1923255
+        }
+    },
+    {
+        "name": "INA",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/INA_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.5752244,
+            "longitude": 77.2073111
+        }
+    },
+    {
+        "name": "Inderlok",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Inderlok_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.673445,
+            "longitude": 77.170337
+        }
+    },
+    {
+        "name": "Indira Gandhi International Airport",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Airport_(Delhi_Metro)",
+            "line": "Orange Line",
+            "Layout": "Underground",
+            "latitude": 28.557096,
+            "longitude": 77.086738
+        }
+    },
+    {
+        "name": "Indraprastha",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Indraprastha_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.620504,
+            "longitude": 77.249991
+        }
+    },
+    {
+        "name": "IP Extension",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/IP_Extension_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6318781,
+            "longitude": 77.3099453
+        }
+    },
+    {
+        "name": "ITO",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/ITO_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.628395,
+            "longitude": 77.241147
+        }
+    },
+    {
+        "name": "Jaffrabad",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jaffrabad_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6827381,
+            "longitude": 77.2747529
+        }
+    },
+    {
+        "name": "Jahangirpuri",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jahangirpuri_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.725828,
+            "longitude": 77.162787
+        }
+    },
+    {
+        "name": "Jama Masjid",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jama_Masjid_metro_station",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.650157,
+            "longitude": 77.237577
+        }
+    },
+    {
+        "name": "Jamia Millia Islamia",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jamia_Millia_Islamia_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.561031,
+            "longitude": 77.284454
+        }
+    },
+    {
+        "name": "Janakpuri East",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Janakpuri_East_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.632869,
+            "longitude": 77.086247
+        }
+    },
+    {
+        "name": "Janakpuri West",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Janakpuri_West_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.62954,
+            "longitude": 77.078243
+        }
+    },
+    {
+        "name": "Jangpura",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jangpura_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.583287,
+            "longitude": 77.239605
+        }
+    },
+    {
+        "name": "Janpath",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Janpath_metro_station",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.6232809,
+            "longitude": 77.2144779
+        }
+    },
+    {
+        "name": "Jasola Apollo",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jasola_Apollo_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.538284,
+            "longitude": 77.2832552
+        }
+    },
+    {
+        "name": "Jasola Vihar Shaheen Bagh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jasola_Vihar_Shaheen_Bagh_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.5460715,
+            "longitude": 77.296633
+        }
+    },
+    {
+        "name": "Jawaharlal Nehru Stadium",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.590381,
+            "longitude": 77.233049
+        }
+    },
+    {
+        "name": "Jhandewalan",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jhandewalan_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.644399,
+            "longitude": 77.199812
+        }
+    },
+    {
+        "name": "Jhilmil",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jhilmil_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.675663,
+            "longitude": 77.312488
+        }
+    },
+    {
+        "name": "Johari Enclave",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Johri_Enclave_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.7129849,
+            "longitude": 77.2901487
+        }
+    },
+    {
+        "name": "Jor Bagh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Jor_Bagh_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.5860802,
+            "longitude": 77.2120368
+        }
+    },
+    {
+        "name": "Kailash Colony",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kailash_Colony_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.555312,
+            "longitude": 77.241998
+        }
+    },
+    {
+        "name": "Kalindi Kunj",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kalindi_Kunj_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.5427836,
+            "longitude": 77.3101484
+        }
+    },
+    {
+        "name": "Kalkaji Mandir",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kalkaji_Mandir_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.54921,
+            "longitude": 77.25904
+        }
+    },
+    {
+        "name": "Kanhaiya Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kanhiya_Nagar_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.682437,
+            "longitude": 77.164761
+        }
+    },
+    {
+        "name": "Karkarduma",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Karkarduma_(Delhi_Metro)",
+            "line": "Blue Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.648641,
+            "longitude": 77.304708
+        }
+    },
+    {
+        "name": "Karkarduma Court",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Karkarduma_Court_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6536829,
+            "longitude": 77.2957384
+        }
+    },
+    {
+        "name": "Karol Bagh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Karol_Bagh_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.643877,
+            "longitude": 77.188541
+        }
+    },
+    {
+        "name": "Kashmere Gate",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kashmere_Gate_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.667489,
+            "longitude": 77.228045
+        }
+    },
+    {
+        "name": "Kaushambi",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kaushambi_(Delhi_Metro)",
+            "line": "Blue Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.645448,
+            "longitude": 77.324379
+        }
+    },
+    {
+        "name": "Keshav Puram",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Keshav_Puram_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.688903,
+            "longitude": 77.161784
+        }
+    },
+    {
+        "name": "Khan Market",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Khan_Market_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.60246,
+            "longitude": 77.227883
+        }
+    },
+    {
+        "name": "Kirti Nagar\u2020",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kirti_Nagar_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.6551,
+            "longitude": 77.151473
+        }
+    },
+    {
+        "name": "Krishna Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Krishna_Nagar_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 26.794347,
+            "longitude": 80.891724
+        }
+    },
+    {
+        "name": "Kohat Enclave",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Kohat_Enclave_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.698004,
+            "longitude": 77.140835
+        }
+    },
+    {
+        "name": "Lajpat Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Lajpat_Nagar_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.570607,
+            "longitude": 77.236474
+        }
+    },
+    {
+        "name": "Lal Qila",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Lal_Qila_metro_station",
+            "line": "Violet Line",
+            "Layout": "Underground",
+            "latitude": 28.656682,
+            "longitude": 77.236612
+        }
+    },
+    {
+        "name": "Laxmi Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Laxmi_Nagar_(Delhi_Metro)",
+            "line": "Blue Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.629248,
+            "longitude": 77.275273
+        }
+    },
+    {
+        "name": "Lok Kalyan Marg",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Lok_Kalyan_Marg_metro_station",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.5976354,
+            "longitude": 77.2099924
+        }
+    },
+    {
+        "name": "Madipur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Madipur_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.676361,
+            "longitude": 77.119561
+        }
+    },
+    {
+        "name": "Maharaja Surajmal Stadium",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Surajmal_Stadium_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.681792,
+            "longitude": 77.073953
+        }
+    },
+    {
+        "name": "Majlis Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Majlis_Park_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.7237083,
+            "longitude": 77.1775611
+        }
+    },
+    {
+        "name": "Major Mohit Sharma",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Major_Mohit_Sharma_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.677631,
+            "longitude": 77.358265
+        }
+    },
+    {
+        "name": "Malviya Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Malviya_Nagar_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.5286861,
+            "longitude": 77.2032917
+        }
+    },
+    {
+        "name": "Mandawali \u2013 West Vinod Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mandawali_-_West_Vinod_Nagar_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.624906,
+            "longitude": 77.304415
+        }
+    },
+    {
+        "name": "Mandi House",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mandi_House_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Underground",
+            "latitude": 28.625816,
+            "longitude": 77.234724
+        }
+    },
+    {
+        "name": "Mansarovar Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mansarovar_Park_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.675406,
+            "longitude": 77.301554
+        }
+    },
+    {
+        "name": "Maujpur-Babarpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Maujpur_-_Babarpur_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6921147,
+            "longitude": 77.2796854
+        }
+    },
+    {
+        "name": "Mayapuri",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mayapuri_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.63717,
+            "longitude": 77.1297305
+        }
+    },
+    {
+        "name": "Mayur Vihar -I",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mayur_Vihar-I_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.604743,
+            "longitude": 77.289328
+        }
+    },
+    {
+        "name": "Mayur Vihar Extension",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mayur_Vihar_Extension_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.594197,
+            "longitude": 77.294494
+        }
+    },
+    {
+        "name": "Mayur Vihar Pocket I",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mayur_Vihar_Pocket_I_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.605822,
+            "longitude": 77.298763
+        }
+    },
+    {
+        "name": "Mewala Maharajpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mewla_Maharajpur_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.448495,
+            "longitude": 77.30813
+        }
+    },
+    {
+        "name": "MG Road",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/MG_Road_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.4796,
+            "longitude": 77.079877
+        }
+    },
+    {
+        "name": "Model Town",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Model_Town_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.702822,
+            "longitude": 77.193868
+        }
+    },
+    {
+        "name": "Mohan Estate",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mohan_Estate_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.5196268,
+            "longitude": 77.2936456
+        }
+    },
+    {
+        "name": "Mohan Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mohan_Nagar_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.67848,
+            "longitude": 77.383933
+        }
+    },
+    {
+        "name": "Moolchand",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Moolchand_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.564,
+            "longitude": 77.234096
+        }
+    },
+    {
+        "name": "Moti Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Moti_Nagar_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.658131,
+            "longitude": 77.142563
+        }
+    },
+    {
+        "name": "Mundka",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mundka_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.682442,
+            "longitude": 77.030219
+        }
+    },
+    {
+        "name": "Mundka Industrial Area",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Mundka_Industrial_Area_metro_station",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.683525,
+            "longitude": 77.017152
+        }
+    },
+    {
+        "name": "Munirka",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Munirka_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5578421,
+            "longitude": 77.1735132
+        }
+    },
+    {
+        "name": "Najafgarh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Najafgarh_metro_station",
+            "line": "Grey Line",
+            "Layout": "Underground",
+            "latitude": 28.612737,
+            "longitude": 76.986324
+        }
+    },
+    {
+        "name": "Nangli",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Nangli_metro_station",
+            "line": "Grey Line",
+            "Layout": "Elevated",
+            "latitude": 28.617172,
+            "longitude": 77.010013
+        }
+    },
+    {
+        "name": "Nangloi",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Nangloi_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.682356,
+            "longitude": 77.064675
+        }
+    },
+    {
+        "name": "Nangloi Railway station",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Nangloi_Railway_station_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.682106,
+            "longitude": 77.056083
+        }
+    },
+    {
+        "name": "Naraina Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Naraina_Vihar_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.624125,
+            "longitude": 77.136488
+        }
+    },
+    {
+        "name": "Nawada",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Nawada_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.620222,
+            "longitude": 77.045089
+        }
+    },
+    {
+        "name": "Neelam Chowk Ajronda",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Neelam_Chowk_Ajronda_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.3978,
+            "longitude": 77.3124
+        }
+    },
+    {
+        "name": "Nehru Enclave",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Nehru_Enclave_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5457201,
+            "longitude": 77.2503527
+        }
+    },
+    {
+        "name": "Nehru Place",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Nehru_Place_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.551411,
+            "longitude": 77.251761
+        }
+    },
+    {
+        "name": "Netaji Subhash Place",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Netaji_Subhash_Place_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.695886,
+            "longitude": 77.15245
+        }
+    },
+    {
+        "name": "New Ashok Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/New_Ashok_Nagar_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.58888889,
+            "longitude": 77.30166667
+        }
+    },
+    {
+        "name": "New Delhi",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/New_Delhi_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.642229,
+            "longitude": 77.221538
+        }
+    },
+    {
+        "name": "NHPC Chowk",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/NHPC_Chowk_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.45766,
+            "longitude": 77.307422
+        }
+    },
+    {
+        "name": "Nirman Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Nirman_Vihar_(Delhi_Metro)",
+            "line": "Blue Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.6377,
+            "longitude": 77.288947
+        }
+    },
+    {
+        "name": "Noida City Centre",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_City_Centre_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.5747,
+            "longitude": 77.3561
+        }
+    },
+    {
+        "name": "Noida Electronic City",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Electronic_City_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.630863,
+            "longitude": 77.375475
+        }
+    },
+    {
+        "name": "Noida Sector 15",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_15_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.584936,
+            "longitude": 77.311757
+        }
+    },
+    {
+        "name": "Noida Sector 16",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_16_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.578549,
+            "longitude": 77.317454
+        }
+    },
+    {
+        "name": "Noida Sector 18",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_18_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.570813,
+            "longitude": 77.326112
+        }
+    },
+    {
+        "name": "Noida Sector 34",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_34_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.58012,
+            "longitude": 77.363404
+        }
+    },
+    {
+        "name": "Noida Sector 52",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_52_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.586762,
+            "longitude": 77.372901
+        }
+    },
+    {
+        "name": "Noida Sector 59",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_59_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.606364,
+            "longitude": 77.372809
+        }
+    },
+    {
+        "name": "Noida Sector 61",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_61_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.59747,
+            "longitude": 77.372273
+        }
+    },
+    {
+        "name": "Noida Sector 62",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Noida_Sector_62_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.617049,
+            "longitude": 77.373619
+        }
+    },
+    {
+        "name": "Okhla Bird Sanctuary",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Okhla_Bird_Sanctuary_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.552824,
+            "longitude": 77.321563
+        }
+    },
+    {
+        "name": "Okhla NSIC",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Okhla_NSIC_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.554931,
+            "longitude": 77.263193
+        }
+    },
+    {
+        "name": "Okhla Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Okhla_Vihar_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.561183,
+            "longitude": 77.291898
+        }
+    },
+    {
+        "name": "Old Faridabad",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Old_Faridabad_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.41083,
+            "longitude": 77.31139
+        }
+    },
+    {
+        "name": "Palam",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Palam_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5915,
+            "longitude": 77.0811
+        }
+    },
+    {
+        "name": "Panchsheel Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Panchsheel_Park_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5423663,
+            "longitude": 77.2201153
+        }
+    },
+    {
+        "name": "Pandit Shree Ram Sharma",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Pandit_Shree_Ram_Sharma_metro_station",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.689279,
+            "longitude": 76.951029
+        }
+    },
+    {
+        "name": "Paschim Vihar East",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Paschim_Vihar_East_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.677294,
+            "longitude": 77.112272
+        }
+    },
+    {
+        "name": "Paschim Vihar West",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Paschim_Vihar_West_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.678589,
+            "longitude": 77.102106
+        }
+    },
+    {
+        "name": "Patel Chowk",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Patel_Chowk_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.623235,
+            "longitude": 77.211785
+        }
+    },
+    {
+        "name": "Patel Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Patel_Nagar_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.645049,
+            "longitude": 77.169251
+        }
+    },
+    {
+        "name": "Peera Garhi",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Peera_Garhi_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.679703,
+            "longitude": 77.09255
+        }
+    },
+    {
+        "name": "Pitam Pura",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Pitam_Pura_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.703151,
+            "longitude": 77.132397
+        }
+    },
+    {
+        "name": "Pratap Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Pratap_Nagar_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.666698,
+            "longitude": 77.198841
+        }
+    },
+    {
+        "name": "Preet Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Preet_Vihar_(Delhi_Metro)",
+            "line": "Blue Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.641466,
+            "longitude": 77.295143
+        }
+    },
+    {
+        "name": "Pul Bangash",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Pul_Bangash_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.666251,
+            "longitude": 77.206984
+        }
+    },
+    {
+        "name": "Punjabi Bagh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Punjabi_Bagh_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.672936,
+            "longitude": 77.145972
+        }
+    },
+    {
+        "name": "Punjabi Bagh West",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Punjabi_Bagh_West_(Delhi_Metro)",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6730178,
+            "longitude": 77.1373636
+        }
+    },
+    {
+        "name": "Qutab Minar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Qutab_Minar_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.5129,
+            "longitude": 77.1864
+        }
+    },
+    {
+        "name": "R.K.Puram",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/R.K_Puram_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5502447,
+            "longitude": 77.1834533
+        }
+    },
+    {
+        "name": "Raja Nahar Singh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Raja_Nahar_Singh_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.3394733,
+            "longitude": 77.3160523
+        }
+    },
+    {
+        "name": "Raj Bagh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Raj_Bagh_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.677031,
+            "longitude": 77.346578
+        }
+    },
+    {
+        "name": "Rajdhani Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rajdhani_Park_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.6822,
+            "longitude": 77.043844
+        }
+    },
+    {
+        "name": "Rajendra Place",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rajendra_Place_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.642241,
+            "longitude": 77.178263
+        }
+    },
+    {
+        "name": "Rajiv Chowk",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rajiv_Chowk_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.632846,
+            "longitude": 77.219639
+        }
+    },
+    {
+        "name": "Rajouri Garden",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rajouri_Garden_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.649004,
+            "longitude": 77.122634
+        }
+    },
+    {
+        "name": "Ramakrishna Ashram Marg",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Ramakrishna_Ashram_Marg_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.639268,
+            "longitude": 77.208502
+        }
+    },
+    {
+        "name": "Ramesh Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Ramesh_Nagar_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.652972,
+            "longitude": 77.131507
+        }
+    },
+    {
+        "name": "Rithala",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rithala_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.720879,
+            "longitude": 77.107029
+        }
+    },
+    {
+        "name": "Rohini East",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rohini_East_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.707659,
+            "longitude": 77.125901
+        }
+    },
+    {
+        "name": "Rohini Sector 18",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rohini_Sector_18,_19_metro_station",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.7383223,
+            "longitude": 77.1387801
+        }
+    },
+    {
+        "name": "Rohini West",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Rohini_West_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.71498,
+            "longitude": 77.115387
+        }
+    },
+    {
+        "name": "Sadar Bazaar Cantonment",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sadar_Bazaar_Cantonment_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.577082,
+            "longitude": 77.1101193
+        }
+    },
+    {
+        "name": "Saket",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Saket_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.5205465,
+            "longitude": 77.2003645
+        }
+    },
+    {
+        "name": "Samaypur Badli",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Samaypur_Badli_metro_station",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.7446341,
+            "longitude": 77.1378939
+        }
+    },
+    {
+        "name": "Sant Surdas (Sihi)",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sant_Surdas_(Sihi)_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.3546852,
+            "longitude": 77.3161621
+        }
+    },
+    {
+        "name": "Sarai",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sarai_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.478064,
+            "longitude": 77.304859
+        }
+    },
+    {
+        "name": "Sarita Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sarita_Vihar_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.5291048,
+            "longitude": 77.2876438
+        }
+    },
+    {
+        "name": "Sarojini Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sarojini_Nagar_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.5759184,
+            "longitude": 77.1976505
+        }
+    },
+    {
+        "name": "Satguru Ramsingh Marg",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Satguru_Ramsingh_Marg_(Delhi_Metro)",
+            "line": "Green Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.66192,
+            "longitude": 77.157455
+        }
+    },
+    {
+        "name": "Sector 28",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sector_28_metro_station",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.438325,
+            "longitude": 77.309096
+        }
+    },
+    {
+        "name": "Seelampur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Seelampur_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "At Grade",
+            "latitude": 28.669824,
+            "longitude": 77.266738
+        }
+    },
+    {
+        "name": "Shadipur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shadipur_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.651955,
+            "longitude": 77.157626
+        }
+    },
+    {
+        "name": "Shahdara",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shahdara_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "At Grade",
+            "latitude": 28.673476,
+            "longitude": 77.289923
+        }
+    },
+    {
+        "name": "Shaheed Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shahid_Nagar_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.676632,
+            "longitude": 77.333759
+        }
+    },
+    {
+        "name": "Shaheed Sthal",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shaheed_Sthal_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.670621,
+            "longitude": 77.415453
+        }
+    },
+    {
+        "name": "Shakurpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shakurpur_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6859557,
+            "longitude": 77.1487693
+        }
+    },
+    {
+        "name": "Shalimar Bagh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shalimar_Bagh_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.7019762,
+            "longitude": 77.1640954
+        }
+    },
+    {
+        "name": "Shankar Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shankar_Vihar_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.560649,
+            "longitude": 77.139796
+        }
+    },
+    {
+        "name": "Shastri Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shastri_Nagar_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.670134,
+            "longitude": 77.181785
+        }
+    },
+    {
+        "name": "Shastri Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shastri_Park_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "At Grade",
+            "latitude": 28.668204,
+            "longitude": 77.250098
+        }
+    },
+    {
+        "name": "Shiv Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shiv_Vihar_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.7214626,
+            "longitude": 77.2893977
+        }
+    },
+    {
+        "name": "Shivaji Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shivaji_Park_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.674944,
+            "longitude": 77.130347
+        }
+    },
+    {
+        "name": "Shivaji Stadium",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shivaji_Stadium_(Delhi_Metro)",
+            "line": "Orange Line",
+            "Layout": "Underground",
+            "latitude": 28.628788,
+            "longitude": 77.211406
+        }
+    },
+    {
+        "name": "Shyam Park",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Shyam_Park_metro_station",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.678232,
+            "longitude": 77.370902
+        }
+    },
+    {
+        "name": "Sikandarpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sikandarpur_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.48139,
+            "longitude": 77.09306
+        }
+    },
+    {
+        "name": "Sir Vishweshwaraiah Moti Bagh",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Moti_Bagh_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.578352,
+            "longitude": 77.174934
+        }
+    },
+    {
+        "name": "South Extension",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/South_Extension_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.5686954,
+            "longitude": 77.2196112
+        }
+    },
+    {
+        "name": "Subhash Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Subhash_Nagar_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.640431,
+            "longitude": 77.104905
+        }
+    },
+    {
+        "name": "Sukhdev Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sukhdev_Vihar_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Elevated",
+            "latitude": 28.559758,
+            "longitude": 77.274702
+        }
+    },
+    {
+        "name": "Sultanpur",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Sultanpur_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Elevated",
+            "latitude": 28.49926,
+            "longitude": 77.161368
+        }
+    },
+    {
+        "name": "Supreme Court",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Supreme_Court_metro_station",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.62349,
+            "longitude": 77.242523
+        }
+    },
+    {
+        "name": "Tagore Garden",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Tagore_Garden_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.643688,
+            "longitude": 77.112914
+        }
+    },
+    {
+        "name": "Terminal 1-IGI Airport",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Terminal_1-IGI_Airport_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.5653,
+            "longitude": 77.122381
+        }
+    },
+    {
+        "name": "Tikri Border",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Tikri_Border_metro_station",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.687978,
+            "longitude": 76.964168
+        }
+    },
+    {
+        "name": "Tikri Kalan",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Tikri_Kalan_metro_station",
+            "line": "Green Line",
+            "Layout": "Underground",
+            "latitude": 28.686902,
+            "longitude": 76.977395
+        }
+    },
+    {
+        "name": "Tilak Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Tilak_Nagar_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.636645,
+            "longitude": 77.096364
+        }
+    },
+    {
+        "name": "Tis Hazari",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Tis_Hazari_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "Elevated",
+            "latitude": 28.667216,
+            "longitude": 77.216517
+        }
+    },
+    {
+        "name": "Trilokpuri Sanjay Lake",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Trilokpuri_metro_station",
+            "line": "Pink Line",
+            "Layout": "Elevated",
+            "latitude": 28.6136059,
+            "longitude": 77.3082796
+        }
+    },
+    {
+        "name": "Tughlakabad Station",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Tughlakabad_(Delhi_Metro)",
+            "line": "Violet Line",
+            "Layout": "Elevated",
+            "latitude": 28.5025526,
+            "longitude": 77.2989335
+        }
+    },
+    {
+        "name": "Udyog Bhawan",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Udyog_Bhawan_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.6110187,
+            "longitude": 77.2111498
+        }
+    },
+    {
+        "name": "Udyog Nagar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Udyog_Nagar_(Delhi_Metro)",
+            "line": "Green Line",
+            "Layout": "Elevated",
+            "latitude": 28.680994,
+            "longitude": 77.080775
+        }
+    },
+    {
+        "name": "Uttam Nagar East",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Uttam_Nagar_East_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.624424,
+            "longitude": 77.065058
+        }
+    },
+    {
+        "name": "Uttam Nagar West",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Uttam_Nagar_West_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "Elevated",
+            "latitude": 28.621856,
+            "longitude": 77.05626
+        }
+    },
+    {
+        "name": "Vaishali",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Vaishali_(Delhi_Metro)",
+            "line": "Blue Line branch",
+            "Layout": "Elevated",
+            "latitude": 28.6496868,
+            "longitude": 77.3384247
+        }
+    },
+    {
+        "name": "Vasant Vihar",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Vasant_Vihar_metro_station",
+            "line": "Magenta Line",
+            "Layout": "Underground",
+            "latitude": 28.557829,
+            "longitude": 77.1611527
+        }
+    },
+    {
+        "name": "Vidhan Sabha",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Vidhan_Sabha_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.687858,
+            "longitude": 77.221779
+        }
+    },
+    {
+        "name": "Vinobapuri",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Vinobapuri_metro_station",
+            "line": "Pink Line",
+            "Layout": "Underground",
+            "latitude": 28.5659703,
+            "longitude": 77.2484546
+        }
+    },
+    {
+        "name": "Vishwa Vidyalaya",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Vishwa_Vidyalaya_(Delhi_Metro)",
+            "line": "Yellow Line",
+            "Layout": "Underground",
+            "latitude": 28.694813,
+            "longitude": 77.214596
+        }
+    },
+    {
+        "name": "Welcome",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Welcome_(Delhi_Metro)",
+            "line": "Red Line",
+            "Layout": "At Grade",
+            "latitude": 28.67205,
+            "longitude": 77.277934
+        }
+    },
+    {
+        "name": "Yamuna Bank",
+        "details": {
+            "link": "https://en.wikipedia.org/wiki/Yamuna_Bank_(Delhi_Metro)",
+            "line": "Blue Line",
+            "Layout": "At-Grade",
+            "latitude": 28.620999,
+            "longitude": 77.260113
+        }
+    }
+]

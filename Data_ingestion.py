@@ -1,6 +1,21 @@
 """
 This module is used to fetch the listings from Makaan.com using the scraper and to store the data
 in a local MongoDB Server.
+Makaan.com URLS for Different Regions of Delhi
+Active as of 7.6.20
+'https://www.makaan.com/delhi/delhi-east-flats-for-rent-10019?page=1'
+'https://www.makaan.com/delhi/rohini-flats-for-rent-11606?page=1'
+'https://www.makaan.com/delhi/delhi-south-flats-for-rent-10022?page=1'
+'https://www.makaan.com/delhi/west-delhi-flats-for-rent-10176?page=1'
+'https://www.makaan.com/delhi/north-delhi-flats-for-rent-10177?page=1'
+'https://www.makaan.com/delhi/dwarka-flats-for-rent-10212?page=1'
+https://www.makaan.com/delhi/delhi-central-flats-for-rent-10018?page=1
+The following listings have very little data or many outliers (Ignore).
+https://www.makaan.com/delhi/other-flats-for-rent-10571?page=1
+https://www.makaan.com/delhi/south-west-delhi-flats-for-rent-11473?page=1
+https://www.makaan.com/delhi/delhi-north-flats-for-rent-10558?page=1
+https://www.makaan.com/delhi/north-west-delhi-flats-for-rent-11475?page=1
+https://www.makaan.com/delhi/delhi-west-flats-for-rent-10559?page=1
 """
 
 from Scraper.Makaan_scraper import listings_to_df
@@ -18,22 +33,6 @@ data = client['Makaan_rental_listings']
 # Create a Table or Collection
 
 rent_prices = data.rent_prices
-
-""" Makaan.com URLS for Different Regions of Delhi
-Active as of 7.6.20
-'https://www.makaan.com/delhi/delhi-east-flats-for-rent-10019?page=1'
-'https://www.makaan.com/delhi/rohini-flats-for-rent-11606?page=1'
-'https://www.makaan.com/delhi/delhi-south-flats-for-rent-10022?page=1'
-'https://www.makaan.com/delhi/west-delhi-flats-for-rent-10176?page=1'
-'https://www.makaan.com/delhi/north-delhi-flats-for-rent-10177?page=1'
-'https://www.makaan.com/delhi/dwarka-flats-for-rent-10212?page=1'
-https://www.makaan.com/delhi/delhi-central-flats-for-rent-10018?page=1
-https://www.makaan.com/delhi/other-flats-for-rent-10571?page=1
-https://www.makaan.com/delhi/south-west-delhi-flats-for-rent-11473?page=1
-https://www.makaan.com/delhi/delhi-north-flats-for-rent-10558?page=1
-https://www.makaan.com/delhi/north-west-delhi-flats-for-rent-11475?page=1
-https://www.makaan.com/delhi/delhi-west-flats-for-rent-10559?page=1
-"""
 
 listings = listings_to_df('https://www.makaan.com/delhi/delhi-west-flats-for-rent-10559?page=1', num_pages=200)
 data_dict = listings.to_dict(orient='records')

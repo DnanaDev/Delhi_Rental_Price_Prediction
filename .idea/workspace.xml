@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b3645ff-6809-4f04-9c45-b4cc4c1dd39f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rent_regression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rent_regression.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Wrangling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Wrangling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/June_7th_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/June_8_data_metro_all_stations.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Rent_data_makaan_metro_all_stations.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_ingestion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metro.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +44,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Python.Data_ingestion">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
     <configuration name="Data_ingestion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="rent_regression" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +96,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rent_regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rent_regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Databases/MongoDB" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Databases/MongoDB/lol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rent_regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="store_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="rent_regression" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,9 +188,15 @@
       <item itemvalue="Python.Makaan_scraper" />
       <item itemvalue="Python.store_db" />
       <item itemvalue="Python.Data_ingestion" />
+      <item itemvalue="Python.lol" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.app" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.lol" />
         <item itemvalue="Python.Data_ingestion" />
         <item itemvalue="Python.store_db" />
       </list>
@@ -126,6 +213,8 @@
       <option name="presentableId" value="Default" />
       <updated>1591438130323</updated>
       <workItem from="1591438132169" duration="30435000" />
+      <workItem from="1592138464590" duration="2715000" />
+      <workItem from="1592227569822" duration="16740000" />
     </task>
     <servers />
   </component>
@@ -137,42 +226,62 @@
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="0" y="23" width="1280" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.710@0.23.1280.710" timestamp="1591439357360" />
+    <state x="318" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592233103075">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="318" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.713@0.23.1280.713" timestamp="1592233103075" />
     <state x="377" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591438190838">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="377" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.710@0.23.1280.710" timestamp="1591438190838" />
-    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1592074157907">
+    <state x="349" y="23" width="582" height="713" key="#predict" timestamp="1592235009601">
       <screen x="0" y="23" width="1280" height="713" />
     </state>
-    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1592074157907" />
-    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1591552537668" />
+    <state x="349" y="23" width="582" height="713" key="#predict/0.23.1280.713@0.23.1280.713" timestamp="1592235009601" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1592247385170">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1592141551350" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1592238973178" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1592247385170" />
     <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1591553452659" />
     <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1591603076546" />
     <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1591604158338" />
-    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1592074157905">
-      <screen x="0" y="23" width="1280" height="713" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1592247385168">
+      <screen x="0" y="23" width="1280" height="715" />
     </state>
-    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1592074157905" />
-    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1591552537667" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1592141551349" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1592238973177" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1592247385168" />
     <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1591553452658" />
     <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1591603076545" />
     <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1591604158337" />
-    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1592074157905">
-      <screen x="0" y="23" width="1280" height="713" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1592247385167">
+      <screen x="0" y="23" width="1280" height="715" />
     </state>
-    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1592074157905" />
-    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1591552537666" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1592141551348" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1592238973176" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1592247385167" />
     <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1591553452658" />
     <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1591603076544" />
     <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1591604158336" />
-    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1592074157906">
-      <screen x="0" y="23" width="1280" height="713" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1592247385169">
+      <screen x="0" y="23" width="1280" height="715" />
     </state>
-    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1592074157906" />
-    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1591552537667" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1592141551349" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1592238973177" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1592247385169" />
     <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1591553452659" />
     <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1591603076545" />
     <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1591604158337" />
+    <state x="149" y="23" width="982" height="715" key="SettingsEditor" timestamp="1592250850332">
+      <screen x="0" y="23" width="1280" height="715" />
+    </state>
+    <state x="149" y="23" width="982" height="715" key="SettingsEditor/0.23.1280.715@0.23.1280.715" timestamp="1592250850332" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1592232054073">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.713@0.23.1280.713" timestamp="1592232054073" />
     <state x="305" y="57" width="670" height="682" key="search.everywhere.popup" timestamp="1591532265973">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
@@ -181,7 +290,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rent_regression$Makaan_scraper.coverage" NAME="Makaan_scraper Coverage Results" MODIFIED="1591439359023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scraper" />
+    <SUITE FILE_PATH="coverage/rent_regression$predict.coverage" NAME="predict Coverage Results" MODIFIED="1592236268764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/rent_regression$store_db.coverage" NAME="store_db Coverage Results" MODIFIED="1591541711492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/rent_regression$Data_ingestion.coverage" NAME="Data_ingestion Coverage Results" MODIFIED="1591604158295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rent_regression$lol.coverage" NAME="lol Coverage Results" MODIFIED="1592141551329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Databases/MongoDB" />
+    <SUITE FILE_PATH="coverage/rent_regression$app.coverage" NAME="app Coverage Results" MODIFIED="1592247385114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
