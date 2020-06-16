@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b3645ff-6809-4f04-9c45-b4cc4c1dd39f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/predict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +23,16 @@
   </component>
   <component name="JupyterTrust" id="03ebe21c-8830-4e74-ac6f-cb86ff724a60" />
   <component name="ProjectId" id="1cwSOUmH8EzXhGJgUY7JdmbqujO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -205,12 +207,15 @@
       <updated>1591438130323</updated>
       <workItem from="1591438132169" duration="30435000" />
       <workItem from="1592138464590" duration="2715000" />
-      <workItem from="1592227569822" duration="18677000" />
+      <workItem from="1592227569822" duration="19376000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="23" width="1280" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591439357360">
