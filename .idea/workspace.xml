@@ -4,8 +4,11 @@
     <list default="true" id="6b3645ff-6809-4f04-9c45-b4cc4c1dd39f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Rental_Price_Analysis_and_Modeling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/columns.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Models/columns.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/predict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rental_Price_Analysis_and_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,8 +181,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Data_ingestion" />
       <item itemvalue="Python.Makaan_scraper" />
+      <item itemvalue="Python.Data_ingestion" />
       <item itemvalue="Python.app" />
       <item itemvalue="Python.lol" />
       <item itemvalue="Python.predict" />

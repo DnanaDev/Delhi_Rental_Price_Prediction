@@ -7,8 +7,8 @@ app = Flask(__name__, static_url_path='/Static')
 
 # Features that are to be input by the user passed, these are strings which will be used as identifiers
 
-features = ["size", "property_type", "suburb_name", "locality_name", "coordinates"]
-locality_names_list = [x.split('__')[1] for x in columns[13:]]
+features = ["size", "property_type", "suburb_name", "locality_name"]
+locality_names_list = [x.split('__')[1] for x in columns[12:]]
 
 
 # Routes for different parts of the site
@@ -29,9 +29,8 @@ def input_data():
         property_type = str(request.form['property_type'])
         suburb_name = str(request.form['suburb_name'])
         locality_name = str(request.form['locality_name'])
-        coordinates = request.form['coordinates'].split(',')
         # final Predictions, calling the model
-        predicted_rent = predict_rent(size, property_type, suburb_name, locality_name, coordinates)
+        predicted_rent = predict_rent(size, property_type, suburb_name, locality_name)
     return render_template('result.html', monthly_rent=int(predicted_rent))
 
 

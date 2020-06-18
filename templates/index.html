@@ -1,90 +1,92 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>New Delhi Rent Prediction</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-<style>
-.heading{
-	font-weight: 100;
-	font-size: 4em;
-	text-shadow: 1px 1px 5px black
-}
-</style>
-  </head>
+<head>
+	<title>New Delhi Rent Prediction</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<style>
+		.jumbotron {
+			padding-bottom: 10px;
+			margin-bottom: 5px;
+		}
 
-  <body>
-  	<div class= "container">
-  		<div class = "jumbotron">
+		.my-4{
+			padding-bottom: 1px;
+		}
 
-  			<div class = "container">
-			  	<h1>
-			  		New Delhi Rent Prediction
-			  	</h1>
-			  	</div>
-			</div>
 
-			  	<h3> Input Parameters required : </h3>
+	</style>
+</head>
+
+<body>
+
+	<div class="jumbotron" align="center">
+		<h1 class="display-4">New Delhi Rent Prediction</h1>
+		<p class="lead">Predict monthly rent in New Delhi using Random Forest Regressor and XGBoost Regressor.</p>
+		<hr class="my-4">
+		<p>Trained using 12,000 listings scraped from Makaan.com.<br> For Data Scraping, Analysis, Feature Engineering and Model Development check the Repository below.</p>
+		<a class="btn btn-primary btn-lg" href="https://github.com/DnanaDev/Delhi_Rental_Price_Prediction" role="button">Learn more</a>
+	</div>
+	<div class="container fluid">
+		<h4> Input Parameters required : </h4>
 			  		<!-- jinja template used by flask uses python code inside two curly brackets and percentages
 			  			This is done line by line, doesn't require : for indentation, the template takes
 			  			care of indentation
 			  			printing variable is done using nested curly brackets-->
-			  		{% for feat in input_features %}
-			  			<h3>{{feat}}</h3>
+			  			{% for feat in input_features %}
+			  			<h5>{{feat}}</h5>
 			  			<!-- jinja template also requires you to close the Python Code brackets -->
-			  		{% endfor %}
+			  			{% endfor %}
+			  		</div>
+			  		<div class=" container" align="center" >
+			  			<form class = "form-inline justify-content-center" action="/submit" method="POST" id = "input_pars"> <!--action is where the request will go -->
+			  				&nbsp
+			  				<input class= "form-control" type="number" name="size" Step = 50 placeholder="Size(sq-ft)" />
+			  				&nbsp
+			  				<select class = "form-control" name = "property_type" form="input_pars">
+			  					<option value="Apartment">Apartment</option>
+			  					<option value="Independent Floor">Independent Floor</option>
+			  					<option value="Independent House">Independent House</option>
+			  					<option value="Villa">Villa</option>
+			  				</select>
+			  				&nbsp
+			  				<select class = "form-control" name = "suburb_name" form="input_pars">
+			  					<option value="Delhi Central">Delhi Central</option>
+			  					<option value="Delhi East">Delhi East</option>
+			  					<option value="Delhi South">Delhi South</option>
+			  					<option value="Dwarka">Dwarka</option>
+			  					<option value="North Delhi">North Delhi</option>
+			  					<option value="Rohini">Rohini</option>
+			  					<option value="West Delhi">West Delhi</option>
+			  				</select>
+			  				&nbsp
 
+			  				<select class = "form-control" name = "locality_name" form="input_pars" id = "locality_name" >
 
-		</div>
-	<br>
-	<br>
-
-  	<div class="container">
-	    <form class = "form-inline" action="/submit" method="POST" id = "input_pars"> <!--action is where the request will go -->
-	    	&nbsp
-	      <input class= "form-control" type="number" name="size" Step = 50 placeholder="Size(sq-ft)" />
-	      &nbsp
-	      <select class = "form-control" name = "property_type" form="input_pars">
-	      	<option value="Apartment">Apartment</option>
-			<option value="Independent Floor">Independent Floor</option>
-			<option value="Independent House">Independent House</option>
-			<option value="Villa">Villa</option>
-		  </select>
-		  &nbsp
-	     <select class = "form-control" name = "suburb_name" form="input_pars">
-	      	<option value="Delhi Central">Delhi Central</option>
-			<option value="Delhi East">Delhi East</option>
-			<option value="Delhi South">Delhi South</option>
-			<option value="Dwarka">Dwarka</option>
-			<option value="North Delhi">North Delhi</option>
-			<option value="Rohini">Rohini</option>
-			<option value="West Delhi">West Delhi</option>
-		</select>
-		<select class = "form-control" name = "locality_name" form="input_pars" id = "locality_name" >
-			
-		</select>
+			  				</select>
 		<!-- Using jinja tojson() filter to convert python object into JSON
 			Using JS to create a dynamic drop down with all values in list-->
-		<script type="text/javascript">
-		var locality_list = {{ ln_list|tojson()}}; 
-		var select = document.getElementById("locality_name"); 
-		
+			<script type="text/javascript">
+				var locality_list = {{ ln_list|tojson()}}; 
+				var select = document.getElementById("locality_name"); 
+
 		// Populate list with options:
 		for(var i = 0; i < locality_list.length; i++) {
-		    var opt = locality_list[i];
-		    select.innerHTML += "<option value=\"" + opt + "\">" + opt + "</option>";
+			var opt = locality_list[i];
+			select.innerHTML += "<option value=\"" + opt + "\">" + opt + "</option>";
 		}
-		</script>
+	</script>
 
-		 <input class="form-control" type="text" name="coordinates" form = "input_pars" placeholder="'28.560871, 77.190473'" />
-	      &nbsp
-	      &nbsp
-	      <br>
-	      <br>
-	      <div class="col-md-4 text-center">
-	      		<button type = "submit" class = "btn btn-primary" > Submit </button>
-	      </div>
-	    </form>
-	    
-	 </div>
-  </body>
+	&nbsp
+	&nbsp
+	<br>
+	<br>
+	<div class="col-md-4">
+		<button type = "submit" class = "btn btn-primary" > Submit </button>
+	</div>
+</form>
+
+</div>
+</div>
+</center>
+</body>
 </html>
