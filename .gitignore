@@ -12,8 +12,16 @@
 
 /Scraper
 
+# Ignore Unused models 
+
+/Models/predict_pipe.pkl
+/Models/Fit_Standard_scalar.pkl	
+/Models/Model_XGBoost_reg.pkl
+/Models/Model_random_forest.pkl
+
 # Ignore modeling and Wrangling notebooks
 
 Data_ingestion.py
 Data_Wrangling.ipynb
 Rental_Price_Analysis_and_Modeling.ipynb
+
