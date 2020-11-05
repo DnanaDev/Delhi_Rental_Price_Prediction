@@ -3,3 +3,7 @@
 
 # Ignore Resources Folder
 /Resources
+.ipynb_checkpoints
+__pycache__/
+.code-workspace
+catboost_info/
