@@ -1,5 +1,6 @@
 # Ignore Mac system files
 .DS_Store
+Env/
 
 # Ignore Resources Folder
 /Resources
@@ -7,3 +8,4 @@
 __pycache__/
 .code-workspace
 catboost_info/
+.idea/
