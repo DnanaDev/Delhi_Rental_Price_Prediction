@@ -7,7 +7,7 @@
 # Ignore Data, Not Needed for prediction
 
 /Data
-
+/Env
 # Ignore Scraper 
 
 /Scraper
@@ -21,6 +21,7 @@
 
 # Ignore modeling and Wrangling notebooks
 
+__pycache__/
 Data_ingestion.py
 Data_Wrangling.ipynb
 Rental_Price_Analysis_and_Modeling.ipynb
