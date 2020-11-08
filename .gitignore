@@ -6,7 +6,7 @@
 
 # Ignore Data, Not Needed for prediction
 
-/Data
+#/Data
 /Env
 # Ignore Scraper 
 
