@@ -55,21 +55,14 @@ def predict_rent(size, property_type, suburb_name, locality_name):
         print('Input out of scope of Model')
 
 
-def create_input(size, prop_type, local, suburb):
-    predict = pd.DataFrame(columns=columns, index=[0])
-    predict.fillna(0, inplace=True)
-
-    # inserting simple input.
-    predict['size_sq_ft'] = int(size)
-
-    # Inserting one-hot encoded Inputs
-    predict['pT__' + prop_type] = 1
-
-    predict['lN__' + local] = 1
-
-    predict['sN__' + suburb] = 1
-
-    return predict
+def load_data(path='Data/Rent_data_makaan_june_13_metro_closest_stations.csv'):
+    # Removing Extreme outliers
+    rent_data = pd.read_csv(path, index_col=0)
+    rent_data = rent_data[rent_data.price < 510000]
+    rent_data = rent_data[rent_data.size_sq_ft < 16000]
+    rent_data = rent_data[rent_data.closest_mtero_station_km < 11]
+    rent_data.reset_index(drop=True, inplace=True)
+    return rent_data
 
 
 def percentile_scores(df, pred_rent, Suburb_Name, Locality_Name):

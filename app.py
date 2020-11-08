@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-from Models.predict import predict_rent, columns, create_input, percentile_scores
-import pandas as pd
+from Models.predict import predict_rent, percentile_scores, load_data
 
 # Master Variable through which everything is done
 
@@ -8,7 +7,9 @@ app = Flask(__name__, static_url_path='/Static')
 
 # Dataset to calculate descriptive stats about prediction.
 
-#data = pd.read_csv('Data/')
+data = load_data()
+
+
 # Routes for different parts of the site
 
 @app.route('/')
@@ -32,9 +33,13 @@ def input_data():
                                                     params['suburb_name'], params['locality_name']))
 
         # calculate descriptive stats about prediction
+        stats = percentile_scores(data, params['predicted_rent'], params['suburb_name'], params['locality_name'])
+
+        # shallow merging dictionaries
+        params = {**params, ** stats}
 
         if params['predicted_rent']:
-            return jsonify(predicted_rent=params)
+            return jsonify(results=params)
 
     return render_template('result.html')
 

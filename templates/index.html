@@ -13,7 +13,12 @@
 					suburb_name : $('select[id="local-sel"]').val(),
 					locality_name : $('select[name="locality_name"]').val(),
                 }, function(data) {
-                  $('#result-preds').text("The Estimated Rent is Rs." + data.predicted_rent['predicted_rent'] + "/Month");
+                  $('#result-preds').text("The Estimated Rent is Rs." + data.results['predicted_rent'] + "/Month\n");
+                  $('#result-stats-1').text(data.results['price_local']+ " percentile for listings in "
+                      + data.results['locality_name']);
+                  $('#result-stats-2').text(data.results['price_suburb']+ " percentile for listings in "
+                      + data.results['suburb_name']);
+                  $('#result-stats-3').text(data.results['price_city']+ " percentile for listings in New Delhi");
                 });
                 return false;
               });
@@ -119,15 +124,15 @@
 					<button id="submit-form"type = "submit" class = "btn btn-primary" > Predict </button>
 				</div>
 
-				<div id="result-preds" class="lead text-center" style="padding-top: 5px">
-					<!-- see if you can get result to populate here
-				The Estimated Monthly Rent is Month
-				1. The rental is in the x percentile of rent listings by locality, suburb in Delhi.
-				2. The rental is in the x percentile of size listings by locality, suburb in Delhi.
-				2. Some measure of confidence in prediction
-				3. button to get Shapely Feature importance.-->
+				<div id="result-preds" class="lead text-center" style="padding-top: 10px">
 
 				</div>
+                 <div id="result-stats-1" class="sm-0 text-center" style="padding-top: 10px">
+                 </div>
+                <div id="result-stats-2" class="sm-0 text-center" style="padding-top: 2px">
+                 </div>
+                <div id="result-stats-3" class="sm-0 text-center" style="padding-top: 2px">
+                 </div>
 
 			</form>
 			</div>
