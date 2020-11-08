@@ -1,16 +1,14 @@
 from flask import Flask, render_template, request, jsonify
-from Models.predict import predict_rent, columns
+from Models.predict import predict_rent, columns, create_input, percentile_scores
+import pandas as pd
 
 # Master Variable through which everything is done
 
 app = Flask(__name__, static_url_path='/Static')
 
-# Features that are to be input by the user passed, these are strings which will be used as identifiers
+# Dataset to calculate descriptive stats about prediction.
 
-features = ["size", "property_type", "suburb_name", "locality_name"]
-locality_names_list = [x.split('__')[1] for x in columns[12:]]
-
-
+#data = pd.read_csv('Data/')
 # Routes for different parts of the site
 
 @app.route('/')
@@ -22,16 +20,21 @@ def homepage():
 
 @app.route('/submit', methods=['GET', 'POST'])
 def input_data():
+    params = {}
     if request.method == 'POST':
         # Form here is a dictionary that contains the variables, with name as the key.
-        size = int(request.form['size'])
-        property_type = str(request.form['property_type'])
-        suburb_name = str(request.form['suburb_name'])
-        locality_name = str(request.form['locality_name'])
+        params['size'] = int(request.form['size'])
+        params['property_type'] = str(request.form['property_type'])
+        params['suburb_name'] = str(request.form['suburb_name'])
+        params['locality_name'] = str(request.form['locality_name'])
         # final Predictions, calling the model
-        predicted_rent = predict_rent(size, property_type, suburb_name, locality_name)
-        if predicted_rent:
-            return jsonify(predicted_rent=int(predicted_rent))
+        params['predicted_rent'] = int(predict_rent(params['size'], params['property_type'],
+                                                    params['suburb_name'], params['locality_name']))
+
+        # calculate descriptive stats about prediction
+
+        if params['predicted_rent']:
+            return jsonify(predicted_rent=params)
 
     return render_template('result.html')
 

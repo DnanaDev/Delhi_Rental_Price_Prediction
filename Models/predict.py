@@ -6,6 +6,7 @@ predict_rent(3000, 'Apartment', 'Delhi South', 'Safdarjung Enclave'
 import joblib
 import pandas as pd
 from pathlib import Path
+from scipy.stats import percentileofscore
 
 if __name__ == "__main__":
     rent_model = joblib.load('predict_pipe_prod.pkl')
@@ -52,3 +53,28 @@ def predict_rent(size, property_type, suburb_name, locality_name):
         print('Invalid Input Format')
     except ValueError:
         print('Input out of scope of Model')
+
+
+def create_input(size, prop_type, local, suburb):
+    predict = pd.DataFrame(columns=columns, index=[0])
+    predict.fillna(0, inplace=True)
+
+    # inserting simple input.
+    predict['size_sq_ft'] = int(size)
+
+    # Inserting one-hot encoded Inputs
+    predict['pT__' + prop_type] = 1
+
+    predict['lN__' + local] = 1
+
+    predict['sN__' + suburb] = 1
+
+    return predict
+
+
+def percentile_scores(df, pred_rent, Suburb_Name, Locality_Name):
+    scores = {}
+    scores['price_local'] = round(percentileofscore(df[df['localityName'] == Locality_Name].price, pred_rent))
+    scores['price_suburb'] = round(percentileofscore(df[df['suburbName'] == Suburb_Name].price, pred_rent))
+    scores['price_city'] = round(percentileofscore(df.price, pred_rent))
+    return scores

@@ -20,7 +20,7 @@
 /Models/Model_random_forest.pkl
 
 # Ignore modeling and Wrangling notebooks
-
+/__pycache__/
 __pycache__/
 Data_ingestion.py
 Data_Wrangling.ipynb

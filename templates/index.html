@@ -13,7 +13,7 @@
 					suburb_name : $('select[id="local-sel"]').val(),
 					locality_name : $('select[name="locality_name"]').val(),
                 }, function(data) {
-                  $('#result-preds').text("The Estimated Rent is Rs." + data.predicted_rent + "/Month");
+                  $('#result-preds').text("The Estimated Rent is Rs." + data.predicted_rent['predicted_rent'] + "/Month");
                 });
                 return false;
               });
