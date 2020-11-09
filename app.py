@@ -1,9 +1,9 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, url_for
 from Models.predict import predict_rent, percentile_scores, load_data
 
 # Master Variable through which everything is done
 
-app = Flask(__name__, static_url_path='/Static')
+app = Flask(__name__, static_folder='static')
 
 # Dataset to calculate descriptive stats about prediction.
 
