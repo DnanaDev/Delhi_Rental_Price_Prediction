@@ -1,11 +1,13 @@
 # Delhi Rental Price Prediction
-<p>This is an end-end data science project involving all the steps of the data science pipeline, from scraping rental listings to model development and exposing the model as a Flask app on Heroku. </p>
+<p>Estimate the rent you should be paying for a house in New Delhi. 
+Models trained on 12000 scrapped public rental listings and deployed as a Flask app on Heroku. </p>
     
-1. Data Gathering and Storing - Using a custom scraper to get the data and store it in a MongoDB collection. [Scripts.](Scraper/) 
-2. Data Cleaning and Wrangling [Notebook](Data_Wrangling.ipynb)
-3. Analysis and Modelling - Includes Feature selection using RFE, modelling using RandomForest Regressor, XGBoost Regressor, RandomSearchCV Hyperparameter optimisation. [Notebook.](https://nbviewer.jupyter.org/github/DnanaDev/Delhi_Rental_Price_Prediction/blob/master/Rental_Price_Analysis_and_Modeling.ipynb)
-4. Exposed Flask App hosted on [Heroku](https://new-delhi-rent-prediction.herokuapp.com)<br>
-![Listings](Static/complete_heatmap_2lac.jpg)
+1. Data scraping and ingestion [scripts.](Scraper/) 
+2. Data Cleaning and Wrangling [Notebook](https://nbviewer.jupyter.org/github/DnanaDev/Delhi_Rental_Price_Prediction/blob/master/Data_Wrangling.ipynb)
+3. **Analysis and Modelling**- Using a Voting Regressor Ensemble of Random Forest and XGBoost with one model optimised for reduced MAE and the other for reduced RMSE.\
+All Feature selection (RFE), model comparisons and hyper-parameter optimisation in [Notebook.](https://nbviewer.jupyter.org/github/DnanaDev/Delhi_Rental_Price_Prediction/blob/master/Rental_Price_Analysis_and_Modeling.ipynb)
+4. Flask App hosted on [Heroku](https://new-delhi-rent-prediction.herokuapp.com)
 
-## Data Sources
-1. Makaan.com
+Model Pipeline            |  Web-App
+:-------------------------:|:-------------------------:
+![models](static/pipeline.png)|![App](static/app.png)
