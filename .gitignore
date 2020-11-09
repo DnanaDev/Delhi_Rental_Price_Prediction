@@ -3,7 +3,7 @@
 
 # Ignore Resources Folder
 /Resources
-
+/static/Other
 # Ignore Data, Not Needed for prediction
 
 #/Data
